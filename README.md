@@ -43,13 +43,10 @@
 
 ## *WEBSITE DEMO*
 
-   ![ToDo List Screenshot 1](https://github.com/Adityapatel-dev/ToDoList/blob/main/Assest/Demo1.png)
-   
-   ![ToDo List Screenshot 2](https://github.com/Adityapatel-dev/ToDoList/blob/main/Assest/Demo2.png)
-   
-   ![ToDo List Screenshot 3](https://github.com/Adityapatel-dev/ToDoList/blob/main/Assest/Demo3.png)
-   
-   ![ToDo List Screenshot 4](https://github.com/Adityapatel-dev/ToDoList/blob/main/Assest/Demo4.png)
+![To-Do List Screenshot 1](https://github.com/Adityapatel-dev/To-Do-List/blob/main/Assests/Demo1.png)
+![To-Do List Screenshot 2](https://github.com/Adityapatel-dev/To-Do-List/blob/main/Assests/Demo2.png)
+![To-Do List Screenshot 3](https://github.com/Adityapatel-dev/To-Do-List/blob/main/Assests/Demo3.png)
+![To-Do List Screenshot 4](https://github.com/Adityapatel-dev/To-Do-List/blob/main/Assests/Demo4.png)
 # *Author*
 
 * Aditya Patel (Adityapatel, adityapatel1998oct@gmail.com)
