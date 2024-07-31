@@ -1,45 +1,72 @@
 
-# To-Do-List
-
-## A Simple To - Do Website!
-
 # To Do List
 
-![ToDoList](https://socialify.git.ci/Adityapatel-dev/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+A simple and interactive To Do List application built with HTML, CSS, and JavaScript. This project allows users to add, mark as completed, and delete tasks from their to-do list.
 
-#### This web page is hosted [here!](https://aditya-to-do-list.vercel.app/)
+## Features
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Simple and intuitive user interface
+
+## Technologies Used
+
+- **HTML**: For the structure of the application
+- **CSS**: For styling the application
+- **JavaScript**: For the functionality of the application
+
+## Getting Started
+
+To get a local copy of this project up and running, follow these steps:
+
+1. **Clone the repository**
+
+    ```bash
+    git clone https://github.com/adityapatel-dev/todo-list.git
+    ```
+
+2. **Navigate to the project directory**
+
+    ```bash
+    cd todo-list
+    ```
+
+3. **Open `index.html` in your browser**
+
+    You can open the `index.html` file directly in your web browser to see the application in action.
+
+## Project Structure
+
+todo-list/
+│
+├── index.html
+├── styles.css
+└── script.js
 
 
+- `index.html`: Contains the HTML structure of the To Do List application.
+- `styles.css`: Contains the CSS styles for the application.
+- `script.js`: Contains the JavaScript code for the functionality of the application.
 
-### *Features*:
+## Usage
 
-* User-friendly
-* Local Storage Supported
-* Displays current Date and Time
-* Responsive, on all devices
-* Themes: Users can choose among different themes.
+1. Open the application in your web browser.
+2. Enter a task in the input field and click the "Add Task" button or press Enter to add a new task.
+3. Click the checkbox next to a task to mark it as completed.
+4. Click the "Delete" button next to a task to remove it from the list.
 
-### *Features to be added*:
+## Contributing
 
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-* SubTasks: Adding subtasks to the enlisted tasks, could be an option.
-* Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
-* ScratchPad: Adding an option of a Scratch pad and it can be locally saved.
-* Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
-* Reminder/Alerts: Sending automated mails once logged in, and due date/time set.
+## License
 
-# *References*
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-* For Fonts: [Google Fonts](https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap)
-* For Basic Icons (like Trash and Check buttons): [font-awesome](https://fontawesome.com)
-* For Favicon: [icons8](https://icons8.com/icons/)
-* For Color Coordination: [w3schools](https://www.w3schools.com/colors/colors_mixer.asp?colorbottom=000000&colortop=FFFFFF)
-* For JavaScript (Tutorial): [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-* For help with CSS: [CSS Tricks](https://css-tricks.com/)
-* For more CSS effects: [text-effects](https://speckyboy.com/underline-text-effects-css/)
-* For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
-* For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
+## Acknowledgments
 
+- Inspiration from various task management tools
 
 ## *WEBSITE DEMO*
 
